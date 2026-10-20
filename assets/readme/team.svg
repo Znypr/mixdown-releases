@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="470" viewBox="0 0 1200 470" role="img" aria-label="Mixdown editor collaboration illustration"><defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101A2E"/><stop offset=".62" stop-color="#090D18"/><stop offset="1" stop-color="#19102C"/></linearGradient>
+<linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#32DAFB"/><stop offset=".58" stop-color="#5C8FFF"/><stop offset="1" stop-color="#C06EFF"/></linearGradient>
+<linearGradient id="bloom" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#17478B" stop-opacity=".38"/><stop offset="1" stop-color="#4B1D80" stop-opacity=".1"/></linearGradient>
+<pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#24344B" stroke-width=".9" opacity=".35"/></pattern>
+<clipPath id="screen"><rect x="0" y="0" width="1200" height="470" rx="25"/></clipPath>
+</defs><g clip-path="url(#screen)"><rect x="0" y="0" width="1200" height="470" rx="25" fill="url(#bg)" /><rect x="0" y="0" width="1200" height="470" rx="0" fill="url(#grid)" /><rect x="0" y="0" width="1200" height="470" rx="0" fill="url(#bloom)" /><path d="M0 467H1200" stroke="url(#accent)" stroke-width="6"/>
+<text x="64" y="88" fill="#35D8F6" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="800" letter-spacing="3">04 / COLLABORATION</text>
+<text x="64" y="149" fill="#F2F6FF" font-family="Segoe UI,Arial,sans-serif" font-size="55" font-weight="800" >Create.</text>
+<text x="64" y="206" fill="#F2F6FF" font-family="Segoe UI,Arial,sans-serif" font-size="55" font-weight="800" >Review. Share.</text>
+<text x="66" y="258" fill="#9CABCA" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="400" >A smoother handoff</text>
+<text x="66" y="289" fill="#9CABCA" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="400" >between you and your team.</text>
+<rect x="64" y="336" width="203" height="37" rx="18" fill="#65D9BD24" stroke="#65D9BD65" stroke-width="1"/><text x="80" y="361" fill="#65D9BD" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" >TEAM WORKFLOW</text>
+<rect x="477" y="84" width="209" height="289" rx="17" fill="#111A2B" stroke="#3861A4" stroke-width="2"/>
+<rect x="494" y="106" width="173" height="118" rx="10" fill="#143765" /><rect x="501" y="113" width="159" height="103" rx="12" fill="#142F5A"/><rect x="501" y="113" width="159" height="103" rx="12" fill="url(#bloom)" /><circle cx="623.4300000000001" cy="142.87" r="12.875" fill="#64BDFE" opacity=".5"/><path d="M501 193.34L528.03 157.29L553.47 176.86L577.3199999999999 148.02L607.53 177.89L628.2 158.32L660 194.37V216H501Z" fill="#274A78"/>
+  <path d="M501 206.73000000000002L535.98 185.1L567.78 200.55L617.0699999999999 175.82999999999998L660 201.57999999999998V216H501Z" fill="#172E50"/>
+<text x="495" y="260" fill="#F2F6FF" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="800" >01  RECORDING</text><text x="495" y="294" fill="#9CABCA" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="500" >Ready to edit</text><rect x="495" y="325" width="156" height="27" rx="10" fill="#205788" /><text x="517" y="344" fill="#F2F6FF" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="800" >SHARE CLIP</text>
+<path d="M694 224h37m-11-10 11 10-11 10" stroke="#45A1FF" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="739" y="84" width="187" height="289" rx="17" fill="#111A2B" stroke="#855BBE" stroke-width="2"/>
+<rect x="754" y="108" width="158" height="116" rx="10" fill="#241E4D" /><rect x="768" y="130" width="130" height="13" rx="5" fill="#8A65DE" /><rect x="768" y="156" width="94" height="13" rx="5" fill="#9B6CFF" /><rect x="768" y="182" width="116" height="13" rx="5" fill="#5E78C9" />
+<text x="755" y="260" fill="#F2F6FF" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="800" >02  EDIT</text><text x="755" y="294" fill="#9CABCA" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="500" >Review changes</text><rect x="756" y="325" width="151" height="27" rx="10" fill="#533C83" /><text x="775" y="344" fill="#F2F6FF" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="800" >SEND FOR REVIEW</text>
+<path d="M935 224h31m-11-10 11 10-11 10" stroke="#9B6CFF" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="974" y="84" width="175" height="289" rx="17" fill="#111A2B" stroke="#4CBFA7" stroke-width="2"/>
+<circle cx="1060" cy="155" r="49" fill="#183D3F" stroke="#55DDBB" stroke-width="3"/>
+<path d="M1034 154l19 18 34-37" stroke="#6AE1BF" stroke-width="9" stroke-linejoin="round" stroke-linecap="round" fill="none"/>
+<text x="989" y="260" fill="#F2F6FF" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="800" >03  READY</text><text x="990" y="294" fill="#9CABCA" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="500" >Ready to post</text><rect x="989" y="325" width="143" height="27" rx="10" fill="#21594F" /><text x="1011" y="344" fill="#F2F6FF" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="800" >APPROVED</text>
+</g><rect x="2" y="2" width="1196" height="466" rx="24" fill="none" stroke="#35476D" stroke-width="3"/></svg>
