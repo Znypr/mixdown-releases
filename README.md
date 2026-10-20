@@ -1,22 +1,13 @@
-# Mixdown downloads
+# Mixdown
 
-[Download the latest Windows app](https://github.com/Znypr/mixdown-releases/releases/latest/download/Mixdown-for-editor.zip)
+Windows video editor for OBS recordings, multitrack audio, and 16:9 / 9:16 clips.
 
-Mixdown is a desktop video editor for gameplay clips, shorts and long recordings.
+**[Download Mixdown for Windows](https://github.com/Znypr/mixdown-releases/releases/latest/download/Mixdown-for-editor.zip)**
 
-## Install
+Extract the ZIP and run `Mixdown.exe`. Keep `resources` and `locales` beside the app. No account is needed for local editing.
 
-Download the ZIP, extract the whole folder, and run **Mixdown.exe**. Keep the resources and locales folders beside it.
-No GitHub account or Google sign-in is needed to edit local videos.
+**Updates:** Open **Settings → Updates** to check, download, and restart. Older installations may require the full ZIP once.
 
-## Updates
+**Team editing (optional):** Set up or join a team in the app. Uses Google Drive; access may require approval while Google OAuth is in testing.
 
-Version 1.11.1 and newer check for signed updates automatically. Open **Updates → Check now**, then **Download update** and **Restart to update**.
-Older versions without a working update source need the full ZIP once. Your existing Mixdown profile is kept.
-
-## Optional teams
-
-Open **Team**, choose **Set up my team** or **Join a team**, and follow the setup steps. Team collaboration uses Google Drive and requires Google consent plus Drive for desktop for video sync.
-While Mixdown's Google project is in Testing, connecting accounts must be approved by the maintainer as test users.
-
-This repository distributes Windows releases and signed update manifests. Source development is maintained separately.
+This repository hosts Windows downloads and signed update files.
